@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RegEx in Word Processor</string>
+    <string name="no_of_words">No. of word(s): %1$s</string>
+</resources>
